@@ -1,4 +1,4 @@
-package com.codekata.maven.eclipse;
+package com.codekata;
 
 import static org.junit.Assert.assertTrue;
 
